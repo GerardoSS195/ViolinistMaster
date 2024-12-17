@@ -329,15 +329,15 @@ body {
 }
 
 .card-container .c1 {
-    background-image: url(/img/pexels-aysenuryilmaz-14804409.jpg);
+    background-image: url(img/pexels-aysenuryilmaz-14804409.jpg);
 }
 
 .card-container .c2 {
-    background-image: url(/img/pexels-ornanvelazquez-12810262.jpg);
+    background-image: url(img/pexels-ornanvelazquez-12810262.jpg);
 }
 
 .card-container .c3 {
-    background-image: url(/img/pexels-peep-this-photo-1766934996-28338002.jpg);
+    background-image: url(img/pexels-peep-this-photo-1766934996-28338002.jpg);
 }
 /*Sección de testimonios*/
 .testimony {
@@ -439,7 +439,7 @@ footer {
 footer .footer-img {
     width: 264px;
     height: 50px;
-    background-image: url(/img/LogoVM_white.png);
+    background-image: url(img/LogoVM_white.png);
 }
 
 .footer-container {
@@ -723,7 +723,7 @@ footer .footer-img {
     }
 
     footer .footer-img {
-        background-image: url(/img/logo_mobile.png);
+        background-image: url(img/logo_mobile.png);
         width: 108px;
         height: 42px;
     }
